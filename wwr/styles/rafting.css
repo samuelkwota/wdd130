@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+:root {
+    --primary-color: #1e9fb6e0;
+    --secondary-color: #ccddd3;
+    --accent1-color: #dfefca;
+    --accent2-color: #fff9a5;
+    --heading-font: 'Crimson Pro', serif;
+    --paragraph-font: 'Literata', serif;
+    --nav-background-color: #6798e0;
+    --nav-link-color: #000c05;
+    --nav-hover-link-color: #ccddd3;
+    --nav-hover-background-color: #ccddd3;
+}
+.hero img {
+    display: block;
+    width: 100%;
+    height: auto;
+    
+   }
+   div .hero {
+    position: relative;
+    
+   }
+h1 {
+position: absolute;
+top: 300px;
+left: 0;
+right: 0;
+text-align: center;
+color: #ccddd3;
+}
+
+article {
+    position: absolute;
+    top: 400px;
+    right: 110px;
+    width: 10%;
+    color: #010503;
+    
+}
+
+
