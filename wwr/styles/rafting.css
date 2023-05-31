@@ -39,11 +39,11 @@ nav a img{
 }
 .hero {
     position: relative;
-    height: 300px;
+    height: 600px;
     overflow: hidden;
 }
 .hero img{
-    display: block;
+    
     height: auto;
 }
 .hero h1{
